@@ -4,6 +4,7 @@
 AI Trading Bot is a cutting-edge, AI-powered trading solution designed to optimize and automate trading strategies across multiple blockchain networks, ensuring unparalleled performance and reliability. Our bot supports the following networks:
 
 - **Fuse**
+- **Ethereum**
 - **Telos**
 - **Meter**
 - **Moonriver**
