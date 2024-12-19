@@ -151,6 +151,7 @@ Follow these steps to install and run the All-in-One Ethereum-Based Bot on your 
 Our bot supports a variety of popular blockchain networks, ensuring compatibility and scalability:
 
 - Fuse
+- Ethereum
 - Telos
 - Meter
 - Moonriver
